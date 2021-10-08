@@ -17,11 +17,7 @@ public class Junit {
 	public static void tc1() {
 		System.out.println("@AfterClass");
 
-	}
-	@Test
-	public  void tc2() {
-		System.out.println("@Test");
-
+	
 	}
 	@After
 	public void tc3() {
